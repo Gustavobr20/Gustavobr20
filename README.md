@@ -4,7 +4,8 @@
 
  ### "A coisa mais indispensável a um homem é reconhecer o uso que deve fazer do seu próprio conhecimento". Platão 
 
- Olá!Me chamo Gustavo, sou estudante do Curso de Analise e Desenvolvimento de sistemas, e estou em busca da minha primeira oportunidade no mundo da programação! :computer:
+ Olá!
+ Me chamo Gustavo, sou estudante do Curso de Analise e Desenvolvimento de sistemas, e estou em busca da minha primeira oportunidade no mundo da programação! :computer:
  </div>
  
  ### Hobby
@@ -17,7 +18,7 @@
 ### Conhecimentos
 ![Python](https://img.shields.io/badge/-Python-blue)
 ![Django](https://img.shields.io/badge/-Django-green)
-![Flask](https://img.shields.io/badge/-Flas-red)
+![Flask](https://img.shields.io/badge/-Flask-red)
 ![SQLite](https://img.shields.io/badge/-Sqlite-yellow)
 
 ## GitHub Status
