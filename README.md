@@ -22,5 +22,5 @@
 ![SQLite](https://img.shields.io/badge/-Sqlite-yellow)
 
 ## GitHub Status
- ![gustavo github stats](https://github-readme-stats.vercel.app/api?username=Gustavobr20&show_icons=true&theme=nightowl)<br>
+ ![gustavo github stats](https://github-readme-stats.vercel.app/api?username=Gustavobr20&show_icons=true&theme=nightowl)<br><br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavobr20&layout=compact&theme=nightowl)](https://github.com/Gustavobr20/github-readme-stats)
