@@ -1,9 +1,5 @@
 # Welcome :octocat:
 
-
-
- ### "A coisa mais indispensável a um homem é reconhecer o uso que deve fazer do seu próprio conhecimento". Platão 
-
  Olá!
  Me chamo Gustavo, sou estudante do Curso de Analise e Desenvolvimento de sistemas, e estou em busca da minha primeira oportunidade no mundo da programação! :computer:
  </div>
