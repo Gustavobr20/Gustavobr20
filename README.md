@@ -16,7 +16,7 @@
 ![Python](https://img.shields.io/badge/-Python-blue)
 ![Django](https://img.shields.io/badge/-Django-green)
 ![Flask](https://img.shields.io/badge/-Flask-red)
-![SQLite](https://img.shields.io/badge/-SQlite-yellow)
+![SQLite](https://img.shields.io/badge/-SQLite-yellow)
 
 ## GitHub Status
  ![gustavo github stats](https://github-readme-stats.vercel.app/api?username=Gustavobr20&show_icons=true&theme=nightowl)<br><br>
