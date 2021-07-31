@@ -18,6 +18,8 @@
 ![Flask](https://img.shields.io/badge/-Flask-red)
 ![SQLite](https://img.shields.io/badge/-SQLite-yellow)
 
-## GitHub Status
-![gustavo github stats](https://github-readme-stats.vercel.app/api?username=Gustavobr20&show_icons=true&theme=nightowl)<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavobr20&layout=compact&theme=nightowl)](https://github.com/Gustavobr20/github-readme-stats)
+<div>
+  <a href="https://github.com/Gustavobr20">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavobr20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavobr20&layout=compact&langs_count=7&theme=dracula"/>
+</div>
