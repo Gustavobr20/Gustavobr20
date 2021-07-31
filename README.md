@@ -1,7 +1,7 @@
 # Welcome :octocat:
 </div>
  Olá!
- Me chamo Gustavo, sou estudante do Curso de Analise e Desenvolvimento de sistemas, e estou em busca da minha primeira oportunidade no mundo da programação! :computer:
+ Me chamo Gustavo, tenho 21 anos, sou estudante do Curso de Analise e Desenvolvimento de sistemas, e estou em busca da minha primeira oportunidade no mundo da programação! :computer:
  </div>
  
  ##
