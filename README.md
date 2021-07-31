@@ -12,6 +12,7 @@
  
 
 ### Conhecimentos
+![Javascript](https://img.shields.io/badge/-JavaScript-purple)
 ![Python](https://img.shields.io/badge/-Python-blue)
 ![Django](https://img.shields.io/badge/-Django-green)
 ![Flask](https://img.shields.io/badge/-Flask-red)
