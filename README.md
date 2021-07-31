@@ -20,4 +20,4 @@
 
 ## GitHub Status
  ![gustavo github stats](https://github-readme-stats.vercel.app/api?username=Gustavobr20&show_icons=true&theme=nightowl)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavobr20&layout=compact&theme=nightowl)](https://github.com/Gustavobr20/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavobr20&layout=compact&theme=nightowl)](https://github.com/Gustavobr20/github-readme-stats)
